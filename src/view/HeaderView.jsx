@@ -5,13 +5,13 @@ import { Link, NavLink } from 'react-router-dom'
 const HeaderView = () => {
   return (
   <header >
-    <Link className='h-logo'>
+    <Link to={"/home"} className='h-logo'>
     <img src="/public/c-logo.png" alt=""  />
     <h3 className='text-white'>Coinmania</h3>
     </Link>
     <div className='buttons'>
-<NavLink>Anasayfa</NavLink>
-<NavLink>Kayıt Ol</NavLink>
+<NavLink to ={"/home"} >Anasayfa</NavLink>
+<NavLink to ={"/"} >Kayıt Ol</NavLink>
     </div>
   </header>
   )
