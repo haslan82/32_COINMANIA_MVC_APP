@@ -23,7 +23,7 @@ const model=new DetailModel(coin, history);
 
   return (
     <div>
-    < DetailPageView/> 
+    < DetailPageView model={model} coin={coin} /> 
     </div>
   )
 }
