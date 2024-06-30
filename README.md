@@ -1,8 +1,33 @@
-# React + Vite
+## 32_COINMANIA_MVC_APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Coinmania is a React.js application built in accordance with the MVC (Model-View-Controller) principle. Users can easily track prices, market caps, and other important metrics of various cryptocurrencies in real-time. Users can access historical price data and analyze changes over time.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Coinmania, MVC (Model-View-Controller) prensibine uygun olarak oluşturulmuş bir React.js uygulamasıdır. Kullanıcılar çeşitli kripto para birimlerinin fiyatlarını, piyasa değerlerini ve diğer önemli ölçümlerini gerçek zamanlı olarak kolayca takip edebilir. Kullanıcılar geçmiş fiyat verilerine erişebilir ve zaman içindeki değişiklikleri analiz edebilir.
+
+## Libraries
+- axios
+- bootstrap
+- chart.js
+- formik
+- millify
+- react
+- react-chartjs-2
+- react-dom
+- react-icons
+- react-router-dom
+- sass
+- uuid
+- yup
+
+## API
+
+- https://docs.coincap.io/
+
+
+## Gif
+
+![](/public/coinmania.gif)
+
+
+##  Designed by <a href="https://www.linkedin.com/in/h%C3%BCseyin-aslan-128519203/" target="_blank">Hüseyin ASLAN</a> 
