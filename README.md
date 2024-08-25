@@ -27,6 +27,7 @@ Coinmania, MVC (Model-View-Controller) prensibine uygun olarak oluşturulmuş bi
 
 ## Gif
 
+
 ![](/public/coinmania.gif)
 
 
